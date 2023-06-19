@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Sujoy",
+      "lastName": "Sarkar",
+      "email": "sarkarsujoy583@gmail",
+      "mobile": "3165443654",
+      "salary": "999684"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

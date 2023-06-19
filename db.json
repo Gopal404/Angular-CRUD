@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Avik",
+      "lastName": "Saha Roy",
+      "email": "avik@gmail.com",
+      "mobile": "9584758638",
+      "salary": "30000"
+    },
+    {
+      "id": 2,
+      "firstName": "Gopal",
+      "lastName": "Sarkar",
+      "email": "gopal@gmail.com",
+      "mobile": "7748596325",
+      "salary": "20000"
+    },
+    {
+      "id": 3,
+      "firstName": "Tanushree",
+      "lastName": "Sarkar",
+      "email": "tanu@gmail.com",
+      "mobile": "8745632017",
+      "salary": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
